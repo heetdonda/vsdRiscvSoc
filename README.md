@@ -37,7 +37,7 @@ This repository contains the **Uniqueness Test** implementation for the VSD RISC
 
 ## Results
 
-- **Source file**:  [`unique_test.c`](./Unique_test.c)  
+- **Source file**: [`unique_test.c`](./unique_test.c) 
 - **Program Output from** 
 
 
