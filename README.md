@@ -37,8 +37,8 @@ This repository contains the **Uniqueness Test** implementation for the VSD RISC
 
 ## Results
 
-- **Source file**:  
-- **Program Output from** `spike pk ./unique_test`: [`Output`](./Output.txt)
+- **Source file**:  [`unique_test.c`](./Unique_test.c)  
+- **Program Output from** 
 
 
 ## Environment Setup & Execution Steps
