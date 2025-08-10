@@ -1,0 +1,73 @@
+spike ~/riscv_toolchain/riscv-pk/butld/pk ./bitops
+bbl loader
+=== RISC-V Proof Header ===
+User : heet
+Host : heet
+MachineID : c5b1fa35c9df4462
+BuildUTC: 2025-08-07T16:52:38Z
+BuildEpoch: 1754585558
+GCC : 8.3.0
+PointerBits: 64
+Program: bitops
+ProofID : 0x9276ee19999bfced
+RunID : 0xa7f29889f4dec4df
+=======================================
+x&y=0x05050024
+x |y=0xAFAFB7B5
+x^У=0XAAAAB791
+x<<3=0x2D2D2D28
+y>>2=0x03C3C48D
+
+
+spike ~/riscv_toolchain/riscv-pk/butld/pk •/bubble_sort
+bbl loader
+=== RISC-V Proof Header ===
+User : heet
+Host : heet
+MachineID : c5b1fa35c9df4462
+BuildUTC: 2025-08-07T16:52:38Z
+BuildEpoch: 1754585558
+GCC : 8.3.0
+PointerBits: 64
+Program: bubble_sort
+ProofID : 0xa19a2d2e0602c563
+RunID : 0x06c2cee063d5db29
+=======================================
+Sorted: 12 3 4 5 67 89
+
+
+spike ~/riscv_toolchain/riscv-pk/butld/pk ./factorial
+bbl loader
+=== RISC-V Proof Header ===
+User : heet
+Host : heet
+MachineID : c5b1fa35c9df4462
+BuildUTC: 2025-08-07T16:52:38Z
+BuildEpoch: 1754585558
+GCC : 8.3.0
+PointerBits: 64
+Program: factorial
+ProofID : 0x63a5e9971ac72abb
+RunID : 0xf06681cf065f0221
+=======================================
+n=12, n!=479001600
+
+
+spike ~/riscv_toolchain/riscv-pk/butld/pk ./max_array
+bbl loader
+=== RISC-V Proof Header ===
+User : heet
+Host : heet
+MachineID : c5b1fa35c9df4462
+BuildUTC: 2025-08-07T16:52:38Z
+BuildEpoch: 1754585558
+GCC : 8.3.0
+PointerBits: 64
+Program: max_array
+ProofID: 0x4b3c029c5b2987b0
+RunID : 0xe18b52c7bf2cf536
+RunID : 0xf06681cf065f0221
+=======================================
+Array length=9, Max=88
+
+
