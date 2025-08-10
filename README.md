@@ -1,6 +1,6 @@
 # Task 2 — Proving RISC-V Toolchain Setup (Run, Disassemble, Decode)
 
-# This repository is part of the VSD RISC-V SoC Workshop. In Task 2, the goal is to prove that the RISC-V toolchain is correctly installed and functional on the local machine.
+# This repository is part of the VSD RISC-V SoC Workshop. In Task 2, the aim is to demonstrate that the RISC-V toolchain is properly installed and working on the local system.
 
 ## The following steps were performed: -
 - Compiled 4 unique C programs using `riscv64-unknown-elf-gcc`
@@ -12,7 +12,7 @@
 
 ## Toolchain Verification
 
-### Spike Version and riscv64-unknown-elf-gcc -v (both in the same screenshot)
+### Spike Version and riscv64-unknown-elf-gcc -v (ogether in one screenshot)
 ## Output
 <img width="2484" height="304" alt="image" src="https://github.com/user-attachments/assets/be0c3b97-c116-43fd-8bd0-b4fa2d507c00" />
 
